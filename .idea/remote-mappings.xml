@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@cf92c30b-cb09-4458-be03-6b47c8909f9f" />
+        <remote-mappings server-id="python@sftp://chenzheye@10.22.148.163:22/home/chenzheye/czy/pythings/anaconda3/envs/dl/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/mnt/2TB/czy/project/new_leaf" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://think@10.22.150.96:22/home/think/anaconda3/envs/czy/bin/python" />
+      </list>
+    </list>
+  </component>
+</project>

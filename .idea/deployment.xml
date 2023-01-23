@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="think@10.22.148.166:22" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="chenzheye@10.22.148.163:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/2TB/czy/project/new_leaf" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="liguodong@10.22.78.12:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/liguodong/czy/1_spine_3d/project/blank" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lulin@ucd.lht.pub:10012">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="think@10.22.148.166:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/think/mnt/czy/1_spine_3d/project/blank" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="think@10.22.148.166:22 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="think@10.22.150.96:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/think/mnt/czy/1_spine_3d/project/blank" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zoululin@10.22.78.101:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/share/home/zoululin/czy/1_spine_3d/project/blank" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zoululin@10.22.78.102:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/share/home/zoululin/czy/project/new_leaf" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
